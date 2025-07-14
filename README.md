@@ -19,3 +19,24 @@ Tech Stack
 - Page Object Model (POM)
 
 
+
+
+SatelliteAutomation/
+│
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── pages/
+│   │           └── HomePage.java
+│   │       └── utils/
+│   │           └── BaseTest.java
+│   │       └── tests/
+│   │           └── SatelliteTest.java
+│
+├── Screenshots/
+│   └── *.png
+│
+├── pom.xml
+├── README.md
+└── .gitignore
+
